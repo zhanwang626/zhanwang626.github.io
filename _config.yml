@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Zhan & Tian"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
+description:	       "To record our beautiful lives"
 author:              "Zhan Wang"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
