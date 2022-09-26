@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Monthly Memory
+title: Memory
 category: memory
 permalink: /memory
 ---
