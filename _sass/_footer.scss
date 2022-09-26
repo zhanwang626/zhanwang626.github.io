@@ -1,6 +1,6 @@
 .footer {
-  background: white;
   color: $brand-color;
+  background-color: rgba(255, 255, 255, 0.4);
   text-align: center;
   min-height: 56px;
   line-height: 45px;
@@ -13,7 +13,6 @@
 }
 @media (max-width: $container-width) {
   .footer {
-    background: white;
     color: $brand-color;
     text-align: center;
     min-height: 56px;
