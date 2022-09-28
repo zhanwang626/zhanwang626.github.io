@@ -7,8 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Memory',  url: 'memory'}
-- {name: 'Her', url: 'tian'}
+- {name: 'To Her', url: 'tian'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
