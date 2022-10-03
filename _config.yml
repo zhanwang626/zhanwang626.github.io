@@ -1,4 +1,5 @@
 # Site Build Settings
+url: "https://www.zhanandtian.com"
 
 # jekyll-paginate configuration
 paginate:            5
